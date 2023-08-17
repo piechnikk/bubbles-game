@@ -53,4 +53,4 @@ Open the `index.html` file in your preferred web browser to view the game. You n
 
 ---
 
-**Note**: This project was created in secondary school and serves as an example of a Three.js game.
+**Note**: This project was created in secondary school and serves as an example of a ts game.
